@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Hi there, my name is Rafael and I am a technology enthusiast. I have a university degree in Information Systems, a postgraduate degree in Database Systems and a master's degree in Education with a focus on Sociocommunity Technologies. I work as a professor of technical and technological education at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), teaching subjects in the areas of programming, database, project development and software engineering.
 
 - Interests:
-  - PHP (include CodeIgniter & Symfony frameworks);
+  - PHP (include CodeIgniter & Symfony frameworks)
   - Web development
   - OOP
   - Software Engineer
